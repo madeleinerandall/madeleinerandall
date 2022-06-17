@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @madeleinerandall
 - 👀 I’m interested in music, beach volleyball and yoga
-- 🌱 I’m currently learning front-end coding 
-- 💞️ Current languages I'm confident in: HTML5 and CSS3
+- 🌱 I’m currently training as a Frontend Web Developer, focusing on Javascript (React, LWC)
+- 🤖 I use a unix terminal and npm in my workflow
+- 💞️ Current languages I'm confident in: HTML5 and CSS3/SCSS
 - 📫 Reach me at mr@floatplane.dev
 
 <!---
